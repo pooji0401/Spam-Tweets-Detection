@@ -1,4 +1,4 @@
-# Spam-Tweets-Detection
+# Spam Detection in Twitter
 
 The aim of the project is to classify spam tweets based on Twitter Account and Content based features on twitter handles.
 
